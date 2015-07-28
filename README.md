@@ -5,6 +5,13 @@
 - Connect Mode, Can connect to BLELite Device.
 - Config Mode, Can be config BLELite Devices. UUID, Major, Minor and Time uses for iBeacon.
 
+##### How to import lib aar to Android Studio:
+ 1. Copy file blueBLE.aar to  YourWorkSpace/app/libs
+ 2. Open Project Structure [File -> Project Structure]
+ 3. Push "+" on top left of window
+ 4. Select Import .JAR or .AAR Package
+ 5. Brown file .aar -> OK
+
 ##### How to use:
 
 ```Java
